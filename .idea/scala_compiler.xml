@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="true" />
+    <profile name="sbt 1" modules="cda2r4-fatjar,cda2r4-fatjar.main,cda2r4-fatjar.test" />
+  </component>
+</project>
